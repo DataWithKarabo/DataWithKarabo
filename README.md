@@ -1,10 +1,5 @@
 # ✨ Hello, I'm Karabo! ✨
 
----
-
-<img src="https://img.freepik.com/free-vector/cute-programmer-girl-working-laptop-cartoon-vector-icon-illustration-technology-people-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3992.jpg?w=826" align="right" width="120" alt="Coding Girl Cartoon"/>
-
-
 🌸 *"Data is my canvas, and every dataset is a new adventure in discovery."* 🌸
 
 ---
