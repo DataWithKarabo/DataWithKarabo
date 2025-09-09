@@ -1,6 +1,7 @@
 # ✨ Hello, I'm Karabo! ✨
 
-<img src="https://img.icons8.com/color/96/000000/python.png" align="right" width="120" alt="Python Logo"/>
+<img src="https://cdn.pixabay.com/photo/2021/08/05/18/19/woman-6522587_1280.png" align="right" width="120" alt="Techie Girl Cartoon"/>
+
 
 🌸 *"Data is my canvas, and every dataset is a new adventure in discovery."* 🌸
 
