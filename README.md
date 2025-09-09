@@ -20,9 +20,9 @@ Data is my canvas, and every dataset is a new adventure in discovery.✨
 
 📊 **Interested in:**
 
--Data Analytics
--Business Intelligence
--Data Science
+- Data Analytics
+- Business Intelligence
+- Data Science
 
 ---
 
@@ -61,11 +61,10 @@ src="https://img.shields.io/badge/Machine%20Learning-00BFFF?style=for-the-badge&
   <img src="https://img.shields.io/badge/Anaconda-FFD6EC?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
   <img src="https://img.shields.io/badge/Google%20Colab-FFFACD?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab" />
   <img src="https://img.shields.io/badge/GitHub-FCC2FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
 </a>
-
+</p>
 ---
 
 ### 📈 My Learning Journey
