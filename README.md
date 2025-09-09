@@ -1,7 +1,7 @@
-🌈Hello, I'm Karabo👩🏻‍💻📊📉
+# 🌈Hello, I'm Karabo👩🏻‍💻📊📉
 
 
-💡 **Aspiring Data Scientist / Analyst ** 
+💡 **Aspiring Data Scientist / Analyst** 
 
 Data is my canvas, and every dataset is a new adventure in discovery.✨
 
