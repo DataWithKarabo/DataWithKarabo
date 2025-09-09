@@ -1,20 +1,35 @@
 🌈Hello, I'm Karabo👩🏻‍💻📊📉
-🌸 *"Data is my canvas, and every dataset is a new adventure in discovery."* 🌸
+
+
+💡 **Aspiring Data Scientist / Analyst ** 
+
+Data is my canvas, and every dataset is a new adventure in discovery.✨
 
 ---
 
-## 💖 About Me
+## About Me👤
 
 * 🎀 **Joyful data explorer** from the vibrant heart of South Africa  
 * 🌷 **Imaginative analyst** uncovering stories hidden in numbers  
 * 📚 **Curious learner** always blooming and reaching for deeper insights  
 * 🦋 **Change maker** believing that data can spark positive transformation  
 * 💫 **Dream weaver** turning raw information into impactful solutions  
-* 🍬 **Sweet spirit** who loves inspiring others and sharing knowledge  
+* 🍬 **Sweet spirit** who loves inspiring others and sharing knowledge
+
+
+🌱**Currently learning📚:**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python badge"/>  
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL badge"/>  
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI badge"/>  
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel badge"/>  
 
 ---
 
-## 🧰 My Toolkits
+📊 **Interested in:** Data Analytics, Business Intelligence, and Data Science  
+
+---
+
+## 🛠️Tech & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Python-FCC2FF?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -30,6 +45,29 @@
 
 ---
 
+### 📈 My Learning Journey
+
+- 🎓 **Education:** BCom Business Informatics (Information Systems)
+- 📚 **Currently:** Upskilling through ALX  Data Science/Data Analysis programmme powered by ExploreAI
+- 
+
+### 🗂️ Projects Coming Soon
+
+I’m excited to start building real-world projects!  
+Stay tuned for updates as I begin sharing my work and learning journey.
+
+---
+
+
+### 🌱 Hobbies & Interests
+
+- 🎵 Music lover
+- 📚 Enjoy reading tech blogs
+- 🗺️ Exploring new places and cultures
+- 🍳 Experimenting with new recipes
+
+---
+
 ## 🎯 My Goals
 
 * 🌟 Empower more girls in data science to shine bright  
@@ -38,20 +76,11 @@
 
 ---
 
-## 💌 Let's Connect
+## 🌍💌 Let's Connect
 
 * 💎 [GitHub](https://github.com/DataWithKarabo)  
 * 💖 [LinkedIn](https://www.linkedin.com/in/karabo-makgatho-6b148b171)  
 * ✉️ [Email](mailto:karabojohanna98@gmail.com)  
-
----
-
-## 🌷 Hobbies & Interests
-
-* 🎵 Music lover & playlist curator  
-* 📚 Reading tech blogs and novels  
-* 🗺️ Exploring new places and cultures  
-* 🍳 Experimenting with new recipes  
 
 ---
 
