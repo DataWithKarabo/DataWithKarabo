@@ -1,5 +1,4 @@
-# ✨ Hello, I'm Karabo! ✨
-
+🌈Hello, I'm Karabo👩🏻‍💻📊📉
 🌸 *"Data is my canvas, and every dataset is a new adventure in discovery."* 🌸
 
 ---
