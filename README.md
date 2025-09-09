@@ -18,7 +18,17 @@ Data is my canvas, and every dataset is a new adventure in discovery.✨
 
 ---
 
+📊 **Interested in:**
+
+-Data Analytics
+-Business Intelligence
+-Data Science
+
+---
+
 🌱**Currently learning📚:**  
+
+<img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Data Analysis badge with chart logo"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python badge"/>  
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL badge"/>  
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI badge"/>  
@@ -28,7 +38,14 @@ src="https://img.shields.io/badge/Machine%20Learning-00BFFF?style=for-the-badge&
 
 ---
 
-📊 **Interested in:** Data Analytics, Business Intelligence, and Data Science  
+**Certificates:**
+- ALX Professional Foundation  
+- ALX Data Analysis
+
+---
+
+**Bootcamps:**
+- WeThinkCode Selection Bootcamp learner (June 2024)
 
 ---
 
@@ -38,13 +55,16 @@ src="https://img.shields.io/badge/Machine%20Learning-00BFFF?style=for-the-badge&
   <img src="https://img.shields.io/badge/Python-FCC2FF?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-FFD6EC?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL/MySQL" />
   <img src="https://img.shields.io/badge/Snowflake-B0E0E6?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
-  <img src="https://img.shields.io/badge/Power%20BI-FFFACD?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Power%20BI-FFFACD?style=for-the-badge&logo=powerbi&looColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Excel-FCDFFF?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/Jupyter-FCE38A?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Anaconda-FFD6EC?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
   <img src="https://img.shields.io/badge/Google%20Colab-FFFACD?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab" />
   <img src="https://img.shields.io/badge/GitHub-FCC2FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+</a>
 
 ---
 
