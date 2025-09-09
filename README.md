@@ -1,4 +1,4 @@
-# ✨ Hey there, I’m Karabo! 👩‍💻💖
+# ✨ Hey there, I’m Karabo! 👩‍💻📊📉
 
 🌈 **Aspiring Data Scientist / Analyst** turning data into beautiful stories.
 
