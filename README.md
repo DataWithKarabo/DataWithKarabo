@@ -16,12 +16,15 @@ Data is my canvas, and every dataset is a new adventure in discovery.✨
 * 💫 **Dream weaver** turning raw information into impactful solutions  
 * 🍬 **Sweet spirit** who loves inspiring others and sharing knowledge
 
+---
 
 🌱**Currently learning📚:**  
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python badge"/>  
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL badge"/>  
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI badge"/>  
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel badge"/>  
+<img
+src="https://img.shields.io/badge/Machine%20Learning-00BFFF?style=for-the-badge&logo=dataiku&logoColor=white" alt="Machine Learning badge"/>
 
 ---
 
@@ -49,7 +52,8 @@ Data is my canvas, and every dataset is a new adventure in discovery.✨
 
 - 🎓 **Education:** BCom Business Informatics (Information Systems)
 - 📚 **Currently:** Upskilling through ALX  Data Science/Data Analysis programmme powered by ExploreAI
-- 
+  
+---
 
 ### 🗂️ Projects Coming Soon
 
