@@ -19,15 +19,14 @@ I'm currently Upskilling through ALX Data Science programmme powered by ExploreA
 
 ---
 
-## 🌱Currently learning 📚
-
-<img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Data Analysis badge with chart logo"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python badge"/>  
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL badge"/>  
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI badge"/>- dashboards, visualizations, reports
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel badge"/>  
-<img
-src="https://img.shields.io/badge/Machine%20Learning-00BFFF?style=for-the-badge&logo=dataiku&logoColor=white" alt="Machine Learning badge"/>
+<h2>📚 Currently Learning ✨</h2>
+<ul>
+  <li>🟩 <strong>Microsoft Excel</strong> – having fun with <strong>advanced functions</strong>, <strong>pivot tables</strong>, and <strong>tidying data</strong> like a pro 💖</li>
+  <li>🐍 <strong>Python</strong> – exploring <strong>Pandas</strong> & <strong>NumPy</strong> to sprinkle some magic on datasets ✨</li>
+  <li>🗄️ <strong>SQL</strong> – practicing <strong>queries</strong>, <strong>joins</strong>, and <strong>aggregate functions</strong> to organize data neatly 🌸</li>
+  <li>📊 <strong>Power BI</strong> – creating <strong>interactive dashboards</strong> and <strong>pretty visual reports</strong> 🎀</li>
+  <li>💡 <strong>Data Analysis Practices</strong> – applying my skills to <strong>sample datasets</strong> and turning numbers into stories 💕</li>
+</ul>
 
 ---
 
@@ -75,6 +74,8 @@ src="https://img.shields.io/badge/Machine%20Learning-00BFFF?style=for-the-badge&
   <img src="https://img.shields.io/badge/GitHub-FCC2FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+  <img
+src="https://img.shields.io/badge/Machine%20Learning-00BFFF?style=for-the-badge&logo=dataiku&logoColor=white" alt="Machine Learning badge"/>
 </a>
 </p>
 
