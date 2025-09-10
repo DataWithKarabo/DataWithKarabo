@@ -76,6 +76,7 @@ I'm currently Upskilling through ALX Data Science programmme powered by ExploreA
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
   <img
 src="https://img.shields.io/badge/Machine%20Learning-00BFFF?style=for-the-badge&logo=dataiku&logoColor=white" alt="Machine Learning badge"/>
+  <img src="https://img.shields.io/badge/HTML%20%26%20CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1572B6" alt="HTML & CSS badge"/>
 </a>
 </p>
 
