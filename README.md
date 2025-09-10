@@ -1,7 +1,7 @@
 # 🌈Hello, I'm Karabo👩🏻‍💻📊📉
 
 
-💡 **Aspiring Data Scientist / Analyst** 
+💡 ***Aspiring Data Scientist / Analyst***
 
 Data is my canvas, and every dataset is a new adventure in discovery.✨
 
@@ -9,16 +9,16 @@ Data is my canvas, and every dataset is a new adventure in discovery.✨
 
 ## About Me👤
 
-* 🎀 **Joyful data explorer** from the vibrant heart of South Africa  
-* 🌷 **Imaginative analyst** uncovering stories hidden in numbers  
+* 😄 **Joyful data explorer** from the vibrant heart of South Africa  
+* 💭 **Imaginative analyst** uncovering stories hidden in numbers  
 * 📚 **Curious learner** always blooming and reaching for deeper insights  
 * 🦋 **Change maker** believing that data can spark positive transformation  
 * 💫 **Dream weaver** turning raw information into impactful solutions  
-* 🍬 **Sweet spirit** who loves inspiring others and sharing knowledge
+* 🍭 **Sweet spirit** who loves inspiring others and sharing knowledge
 
 ---
 
-📊 **Interested in:**
+## 📊 Interested in
 
 - Data Analytics
 - Business Intelligence
@@ -26,7 +26,7 @@ Data is my canvas, and every dataset is a new adventure in discovery.✨
 
 ---
 
-🌱**Currently learning📚:**  
+## 🌱Currently learning📚
 
 <img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Data Analysis badge with chart logo"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python badge"/>  
@@ -38,18 +38,18 @@ src="https://img.shields.io/badge/Machine%20Learning-00BFFF?style=for-the-badge&
 
 ---
 
-**Certificates:**
+## Certificates🏆
 - ALX Professional Foundation  
 - ALX Data Analysis
 
 ---
 
-**Bootcamps:**
+## Bootcamps
 - WeThinkCode Selection Bootcamp learner (June 2024)
 
 ---
 
-## 🛠️Tech & Tools
+## Tech & Tools🛠️
 
 <p>
   <img src="https://img.shields.io/badge/Python-FCC2FF?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -68,14 +68,14 @@ src="https://img.shields.io/badge/Machine%20Learning-00BFFF?style=for-the-badge&
 
 ---
 
-### 📈 My Learning Journey
+## My Learning Journey📚
 
-- 🎓 **Education:** BCom Business Informatics (Information Systems)
-- 📚 **Currently:** Upskilling through ALX  Data Science/Data Analysis programmme powered by ExploreAI
+- 🎓 **Education:** BCom Business Informatics (Information Systems) Graduate
+- 📚 **Currently:** Upskilling through ALX Data Science/Data Analysis programmme powered by ExploreAI
   
 ---
 
-### 🗂️ Projects Coming Soon
+## Projects Coming Soon🗂️
 
 I’m excited to start building real-world projects!  
 Stay tuned for updates as I begin sharing my work and learning journey.
@@ -83,7 +83,7 @@ Stay tuned for updates as I begin sharing my work and learning journey.
 ---
 
 
-### 🌱 Hobbies & Interests
+## Hobbies & Interests🎭
 
 - 🎵 Music lover
 - 📚 Enjoy reading tech blogs
@@ -92,7 +92,7 @@ Stay tuned for updates as I begin sharing my work and learning journey.
 
 ---
 
-## 🎯 My Goals
+## My Goals🎯
 
 * 🌟 Empower more girls in data science to shine bright  
 * 💡 Create projects that make data meaningful and spread happiness  
@@ -100,11 +100,11 @@ Stay tuned for updates as I begin sharing my work and learning journey.
 
 ---
 
-## 🌍💌 Let's Connect
+## Let's Connect🌍📩
 
-* 💎 [GitHub](https://github.com/DataWithKarabo)  
-* 💖 [LinkedIn](https://www.linkedin.com/in/karabo-makgatho-6b148b171)  
-* ✉️ [Email](mailto:karabojohanna98@gmail.com)  
+* 👥 [GitHub](https://github.com/DataWithKarabo)  
+* 👤 [LinkedIn](https://www.linkedin.com/in/karabo-makgatho-6b148b171)  
+* 💌 [Email](mailto:karabojohanna98@gmail.com)  
 
 ---
 
