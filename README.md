@@ -19,14 +19,25 @@ I'm currently Upskilling through ALX Data Science programmme powered by ExploreA
 
 ---
 
-<h2>📚 Currently Learning ✨</h2>
+<h2>📚 Currently Learning 🌱</h2>
 <ul>
-  <li>🟩 <strong>Microsoft Excel</strong> – having fun with <strong>advanced functions</strong>, <strong>pivot tables</strong>, and <strong>tidying data</strong> like a pro 💖</li>
-  <li>🐍 <strong>Python</strong> – exploring <strong>Pandas</strong> & <strong>NumPy</strong> to sprinkle some magic on datasets ✨</li>
-  <li>🗄️ <strong>SQL</strong> – practicing <strong>queries</strong>, <strong>joins</strong>, and <strong>aggregate functions</strong> to organize data neatly 🌸</li>
-  <li>📊 <strong>Power BI</strong> – creating <strong>interactive dashboards</strong> and <strong>pretty visual reports</strong> 🎀</li>
-  <li>💡 <strong>Data Analysis Practices</strong> – applying my skills to <strong>sample datasets</strong> and turning numbers into stories 💕</li>
+  <li>🟩 <strong>Microsoft Excel</strong> – having fun with <strong>advanced functions</strong>, <strong>pivot tables</strong>, and <strong>tidying data</strong> like a pro </li>
+  <li>🐍 <strong>Python</strong> – exploring <strong>Pandas</strong> & <strong>NumPy</strong> to sprinkle some magic on datasets </li>
+  <li>🗄️ <strong>SQL</strong> – practicing <strong>queries</strong>, <strong>joins</strong>, and <strong>aggregate functions</strong> to organize data neatly </li>
+  <li>📊 <strong>Power BI</strong> – creating <strong>interactive dashboards</strong> and <strong>pretty visual reports</strong> </li>
+  <li>💡 <strong>Data Analysis Practices</strong> – applying my skills to <strong>sample datasets</strong> and turning numbers into stories </li>
 </ul>
+
+---
+
+## Interested in
+
+- 📊🔎Data visualization & Story telling
+- 🤖 Exploring Machine Learning 
+- 🏢 Business Intelligence(BI) & Reporting
+- 💻 Using SQL and Python for Data Analysis
+- 🌍 Real-World Data Applications
+- 📉☁️Continuous Learning in Data and Cloud Technologies
 
 ---
 
@@ -40,17 +51,6 @@ I'm currently Upskilling through ALX Data Science programmme powered by ExploreA
 
 ## Bootcamps
 - WeThinkCode Selection Bootcamp learner (June 2024)
-
----
-
-## Interested in
-
-- 📊🔎Data visualization & Story telling
-- 🤖 Exploring Machine Learning 
-- 🏢 Business Intelligence(BI) & Reporting
-- 💻 Using SQL and Python for Data Analysis
-- 🌍 Real-World Data Applications
-- 📉☁️Continuous Learning in Data and Cloud Technologies
 
 ---
 
@@ -82,10 +82,96 @@ src="https://img.shields.io/badge/Machine%20Learning-00BFFF?style=for-the-badge&
 
 ---
 
-## Projects Coming Soon🗂️
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Projects Coming Soon</title>
+  <style>
+    body {
+      font-family: 'Comic Sans MS', cursive, sans-serif;
+      background-color: #fff0f5;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
 
-I’m excited to start building real-world projects!  
-Stay tuned for updates as I begin sharing my work and learning journey.
+    .projects-container {
+      text-align: center;
+      background: #ffe6f0;
+      padding: 40px;
+      border-radius: 20px;
+      box-shadow: 0 8px 20px rgba(255, 105, 180, 0.4);
+      max-width: 500px;
+    }
+
+    h2 {
+      font-size: 2rem;
+      color: #ff69b4;
+      margin-bottom: 10px;
+    }
+
+    p {
+      font-size: 1.1rem;
+      color: #d1478b;
+      margin-bottom: 20px;
+    }
+
+    .loader {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+    }
+
+    .dot {
+      width: 15px;
+      height: 15px;
+      background-color: #ff69b4;
+      border-radius: 50%;
+      animation: bounce 1.2s infinite ease-in-out;
+    }
+
+    .dot:nth-child(2) {
+      animation-delay: 0.2s;
+    }
+
+    .dot:nth-child(3) {
+      animation-delay: 0.4s;
+    }
+
+    @keyframes bounce {
+      0%, 80%, 100% { transform: scale(0); }
+      40% { transform: scale(1); }
+    }
+
+    .skills {
+      margin-top: 20px;
+      font-size: 1rem;
+      color: #ff1493;
+    }
+
+  </style>
+</head>
+<body>
+  <div class="projects-container">
+    <h2>Projects Coming Soon 🗂️</h2>
+    <p>I’m excited to start building real-world projects!<br>
+       Stay tuned as I share my learning journey.</p>
+    
+    <div class="loader">
+      <div class="dot"></div>
+      <div class="dot"></div>
+      <div class="dot"></div>
+    </div>
+
+    <div class="skills">
+      Planned projects: Excel, Power BI, SQL, Python, Data Analysis
+    </div>
+  </div>
+</body>
+</html>
 
 ---
 
