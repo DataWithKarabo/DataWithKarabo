@@ -3,7 +3,7 @@
 
 💡 ***Aspiring Data Scientist / Analyst***
 
-Data is my canvas, and every dataset is a new adventure in discovery.✨
+I'm passionate about uncovering insights and solving problems through data✨
 
 ---
 
@@ -18,14 +18,6 @@ Data is my canvas, and every dataset is a new adventure in discovery.✨
 
 ---
 
-## 📊 Interested in
-
-- Data Analytics
-- Business Intelligence
-- Data Science
-
----
-
 ## 🌱Currently learning📚
 
 <img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Data Analysis badge with chart logo"/>
@@ -35,6 +27,16 @@ Data is my canvas, and every dataset is a new adventure in discovery.✨
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel badge"/>  
 <img
 src="https://img.shields.io/badge/Machine%20Learning-00BFFF?style=for-the-badge&logo=dataiku&logoColor=white" alt="Machine Learning badge"/>
+
+---
+
+## Interested in
+
+- 📊🔎Data visualization & Story telling
+- 🤖 Exploring Machine Learning 
+- 🏢 Business Intelligence(BI) & Reporting
+- 💻 Using SQL and Python for Data Analysis
+- 📉☁️Continuous Learning in Data and Cloud Technologies
 
 ---
 
