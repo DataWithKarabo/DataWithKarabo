@@ -1,7 +1,9 @@
-# 🌈Hello, I'm Karabo👩🏻‍💻📊📉
+# 🌈Hello, I'm Karabo👩🏻‍💻
 
+I'm a *BCom Business Informatics (Information Systems)* Graduate👩🏽‍🎓. 
+I completed ALX Data Analytics course and I'm currently Upskilling through ALX Data Science programmme powered by ExploreAI
 
-💡 ***Aspiring Data Scientist / Analyst***
+💡 ***I’m an Aspiring Data Scientist / Analyst***
 
 I'm passionate about uncovering insights and solving problems through data✨
 
@@ -36,18 +38,27 @@ src="https://img.shields.io/badge/Machine%20Learning-00BFFF?style=for-the-badge&
 - 🤖 Exploring Machine Learning 
 - 🏢 Business Intelligence(BI) & Reporting
 - 💻 Using SQL and Python for Data Analysis
+- 🌍 Real-World Data Applications
 - 📉☁️Continuous Learning in Data and Cloud Technologies
+
+---
+
+## 🚀Career Path
+
+✅ Step 1: Junior Data Analyst / Graduate Programmes (current focus)
+🔄 Step 2: Data Analyst / Business Intelligence Analyst (short-term goal)
+🎯Step 3: Data Scientist (long-term aspiration)
+  
+---
+
+## Bootcamps
+- WeThinkCode Selection Bootcamp learner (June 2024)
 
 ---
 
 ## Certificates🏆
 - ALX Professional Foundation  
 - ALX Data Analysis
-
----
-
-## Bootcamps
-- WeThinkCode Selection Bootcamp learner (June 2024)
 
 ---
 
@@ -70,20 +81,12 @@ src="https://img.shields.io/badge/Machine%20Learning-00BFFF?style=for-the-badge&
 
 ---
 
-## My Learning Journey📚
-
-- 🎓 **Education:** BCom Business Informatics (Information Systems) Graduate
-- 📚 **Currently:** Upskilling through ALX Data Science/Data Analysis programmme powered by ExploreAI
-  
----
-
 ## Projects Coming Soon🗂️
 
 I’m excited to start building real-world projects!  
 Stay tuned for updates as I begin sharing my work and learning journey.
 
 ---
-
 
 ## Hobbies & Interests🎭
 
