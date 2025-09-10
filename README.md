@@ -44,7 +44,9 @@ I'm currently Upskilling through ALX Data Science programmme powered by ExploreA
 ## 🚀Career Path
 
 ✅ Step 1: Junior Data Analyst / Graduate Programmes (current focus)
+
 🔄 Step 2: Data Analyst / Business Intelligence Analyst (short-term goal)
+
 🎯Step 3: Data Scientist (long-term aspiration)
   
 ---
