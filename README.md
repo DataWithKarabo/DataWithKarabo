@@ -86,92 +86,43 @@ src="https://img.shields.io/badge/Machine%20Learning-00BFFF?style=for-the-badge&
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Projects Coming Soon</title>
+  <title>Girly Logo</title>
   <style>
-    body {
+    .logo {
       font-family: 'Comic Sans MS', cursive, sans-serif;
-      background-color: #fff0f5;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-    }
-
-    .projects-container {
-      text-align: center;
-      background: #ffe6f0;
-      padding: 40px;
+      font-size: 3rem;
+      font-weight: bold;
+      color: #ff69b4; /* Hot pink */
+      text-shadow: 2px 2px #ffe6f0, 4px 4px #ffb6c1;
+      display: inline-block;
+      padding: 20px;
+      border: 3px dashed #ffb6c1;
       border-radius: 20px;
-      box-shadow: 0 8px 20px rgba(255, 105, 180, 0.4);
-      max-width: 500px;
+      background: #fff0f5;
+      transition: transform 0.3s;
     }
-
-    h2 {
-      font-size: 2rem;
-      color: #ff69b4;
-      margin-bottom: 10px;
-    }
-
-    p {
-      font-size: 1.1rem;
-      color: #d1478b;
-      margin-bottom: 20px;
-    }
-
-    .loader {
-      display: flex;
-      justify-content: center;
-      gap: 10px;
-    }
-
-    .dot {
-      width: 15px;
-      height: 15px;
-      background-color: #ff69b4;
-      border-radius: 50%;
-      animation: bounce 1.2s infinite ease-in-out;
-    }
-
-    .dot:nth-child(2) {
-      animation-delay: 0.2s;
-    }
-
-    .dot:nth-child(3) {
-      animation-delay: 0.4s;
-    }
-
-    @keyframes bounce {
-      0%, 80%, 100% { transform: scale(0); }
-      40% { transform: scale(1); }
-    }
-
-    .skills {
-      margin-top: 20px;
-      font-size: 1rem;
+    .logo:hover {
+      transform: rotate(-5deg) scale(1.1);
       color: #ff1493;
+      text-shadow: 2px 2px #ffe6f0, 4px 4px #ff69b4;
     }
-
+    .sparkle {
+      color: #fffacd;
+      animation: sparkle 1.5s infinite;
+    }
+    @keyframes sparkle {
+      0%, 100% {opacity: 1;}
+      50% {opacity: 0.3;}
+    }
   </style>
 </head>
 <body>
-  <div class="projects-container">
-    <h2>Projects Coming Soon 🗂️</h2>
-    <p>I’m excited to start building real-world projects!<br>
-       Stay tuned as I share my learning journey.</p>
-    
-    <div class="loader">
-      <div class="dot"></div>
-      <div class="dot"></div>
-      <div class="dot"></div>
-    </div>
-
-    <div class="skills">
-      Planned projects: Excel, Power BI, SQL, Python, Data Analysis
-    </div>
+  <div class="logo">
+    ✨ <span class="sparkle">HTML</span> & <span class="sparkle">CSS</span> ✨
   </div>
 </body>
 </html>
+ 
 
 ---
 
