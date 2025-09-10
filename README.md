@@ -1,11 +1,10 @@
 # 🌈Hello, I'm Karabo👩🏻‍💻
 
-I'm a *BCom Business Informatics (Information Systems)* Graduate👩🏽‍🎓. 
-I completed ALX Data Analytics course and I'm currently Upskilling through ALX Data Science programmme powered by ExploreAI
+I'm a *BCom Business Informatics (Information Systems)* Graduate👩🏽‍🎓(2023). 
+I completed ALX Data Analytics course(2025) and 
+I'm currently Upskilling through ALX Data Science programmme powered by ExploreAI
 
-💡 ***I’m an Aspiring Data Scientist / Analyst***
-
-I'm passionate about uncovering insights and solving problems through data✨
+💡 ***I’m an Aspiring Data Scientist / Analyst***, passionate about uncovering insights and solving problems through data✨
 
 ---
 
@@ -20,26 +19,15 @@ I'm passionate about uncovering insights and solving problems through data✨
 
 ---
 
-## 🌱Currently learning📚
+## 🌱Currently learning 📚
 
 <img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Data Analysis badge with chart logo"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python badge"/>  
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL badge"/>  
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI badge"/>  
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI badge"/>  - dashboards, visualizations, reports
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel badge"/>  
 <img
 src="https://img.shields.io/badge/Machine%20Learning-00BFFF?style=for-the-badge&logo=dataiku&logoColor=white" alt="Machine Learning badge"/>
-
----
-
-## Interested in
-
-- 📊🔎Data visualization & Story telling
-- 🤖 Exploring Machine Learning 
-- 🏢 Business Intelligence(BI) & Reporting
-- 💻 Using SQL and Python for Data Analysis
-- 🌍 Real-World Data Applications
-- 📉☁️Continuous Learning in Data and Cloud Technologies
 
 ---
 
@@ -53,6 +41,17 @@ src="https://img.shields.io/badge/Machine%20Learning-00BFFF?style=for-the-badge&
 
 ## Bootcamps
 - WeThinkCode Selection Bootcamp learner (June 2024)
+
+---
+
+## Interested in
+
+- 📊🔎Data visualization & Story telling
+- 🤖 Exploring Machine Learning 
+- 🏢 Business Intelligence(BI) & Reporting
+- 💻 Using SQL and Python for Data Analysis
+- 🌍 Real-World Data Applications
+- 📉☁️Continuous Learning in Data and Cloud Technologies
 
 ---
 
