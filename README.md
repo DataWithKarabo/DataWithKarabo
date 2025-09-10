@@ -82,77 +82,9 @@ src="https://img.shields.io/badge/Machine%20Learning-00BFFF?style=for-the-badge&
 
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Projects Coming Soon</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      background-color: #f4f6f8;
-      color: #333;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      height: 100vh;
-      margin: 0;
-    }.container {
-      text-align: center;
-      padding: 2rem;
-      background-color: #fff;
-      border-radius: 12px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-      max-width: 500px;
-    }h1 {
-      font-size: 2rem;
-      margin-bottom: 1rem;
-    }p {
-      font-size: 1.1rem;
-      margin-bottom: 2rem;
-    }.loader {
-      border: 6px solid #e0e0e0;
-      border-top: 6px solid #0078D4;
-      border-radius: 50%;
-      width: 50px;
-      height: 50px;
-      animation: spin 1s linear infinite;
-      margin: 0 auto 1rem;
-    } @keyframes spin {
-      0% { transform: rotate(0deg); }
-      100% { transform: rotate(360deg); }
-    }.tech-list {
-      font-size: 0.95rem;
-      color: #555;
-      margin-top: 1rem;
-  } .tech-list span {
-      background-color: #e8f0fe;
-      padding: 0.3rem 0.6rem;
-      margin: 0.2rem;
-      border-radius: 6px;
-      display: inline-block;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <h1>🗂️ Projects Coming Soon</h1>
-    <div class="loader"></div>
-    <p>I’m excited to start building real-world projects!<br>
-       Stay tuned for updates as I begin sharing my work and learning journey.</p>
-    <div class="tech-list">
-      <span>Excel</span>
-      <span>Power BI</span>
-      <span>SQL</span>
-      <span>Python</span>
-      <span>Data Analysis</span>
-    </div>
-  </div>
-</body>
-</html>
+## Projects Coming Soon🗂️🔜
 
-
+I’m excited to start building real-world projects! Stay tuned for updates as I begin sharing my work and learning journey.
 
 ---
 
