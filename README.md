@@ -89,79 +89,70 @@ src="https://img.shields.io/badge/Machine%20Learning-00BFFF?style=for-the-badge&
   <title>Projects Coming Soon</title>
   <style>
     body {
-      font-family: 'Comic Sans MS', cursive, sans-serif;
-      background-color: #fff0f5;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f4f6f8;
+      color: #333;
       display: flex;
-      justify-content: center;
+      flex-direction: column;
       align-items: center;
+      justify-content: center;
       height: 100vh;
       margin: 0;
-    }
-  .projects-container {
+    }.container {
       text-align: center;
-      background: #ffe6f0;
-      padding: 40px;
-      border-radius: 20px;
-      box-shadow: 0 8px 20px rgba(255, 105, 180, 0.4);
+      padding: 2rem;
+      background-color: #fff;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
       max-width: 500px;
-    }
-    h2 {
+    }h1 {
       font-size: 2rem;
-      color: #ff69b4;
-      margin-bottom: 10px;
-    }
-p {
+      margin-bottom: 1rem;
+    }p {
       font-size: 1.1rem;
-      color: #d1478b;
-      margin-bottom: 20px;
-    }
-    .loader {
-      display: flex;
-      justify-content: center;
-      gap: 10px;
-    }
-.dot {
-      width: 15px;
-      height: 15px;
-      background-color: #ff69b4;
+      margin-bottom: 2rem;
+    }.loader {
+      border: 6px solid #e0e0e0;
+      border-top: 6px solid #0078D4;
       border-radius: 50%;
-      animation: bounce 1.2s infinite ease-in-out;
+      width: 50px;
+      height: 50px;
+      animation: spin 1s linear infinite;
+      margin: 0 auto 1rem;
+    } @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }.tech-list {
+      font-size: 0.95rem;
+      color: #555;
+      margin-top: 1rem;
+  } .tech-list span {
+      background-color: #e8f0fe;
+      padding: 0.3rem 0.6rem;
+      margin: 0.2rem;
+      border-radius: 6px;
+      display: inline-block;
     }
-.dot:nth-child(2) {
-      animation-delay: 0.2s;
-    }
-.dot:nth-child(3) {
-      animation-delay: 0.4s;
-    }
-@keyframes bounce {
-      0%, 80%, 100% { transform: scale(0); }
-      40% { transform: scale(1); }
-    }
-    .skills {
-      margin-top: 20px;
-      font-size: 1rem;
-      color: #ff1493;
-    }
- </style>
+  </style>
 </head>
 <body>
-  <div class="projects-container">
-    <h2>Projects Coming Soon 🗂️</h2>
+  <div class="container">
+    <h1>🗂️ Projects Coming Soon</h1>
+    <div class="loader"></div>
     <p>I’m excited to start building real-world projects!<br>
-       Stay tuned as I share my learning journey.</p>
-    <div class="loader">
-      <div class="dot"></div>
-      <div class="dot"></div>
-      <div class="dot"></div>
-    </div>
-<div class="skills">
-      Planned projects: Excel, Power BI, SQL, Python, Data Analysis
+       Stay tuned for updates as I begin sharing my work and learning journey.</p>
+    <div class="tech-list">
+      <span>Excel</span>
+      <span>Power BI</span>
+      <span>SQL</span>
+      <span>Python</span>
+      <span>Data Analysis</span>
     </div>
   </div>
 </body>
 </html>
 
- 
+
 
 ---
 
